@@ -1,2 +1,2 @@
 # jQuery-Todo-List-Project
-<image src="images/2020-01-25 (1).png>
+<img src="images/2020-01-25%20(1).png">
