@@ -1,0 +1,30 @@
+ body 
+ {
+ 	background: green; 
+ }
+
+ .hook
+ {
+ 	text-decoration: line-through orange;
+ }
+
+/*body
+{
+	background: black;
+}
+ div
+ {
+ 	background: purple;
+ }
+
+ p
+ {
+ 	color: red;
+ }
+
+ #hook
+ {
+ 	color: green;
+ 	border: 2px blue solid;
+ 	background: yellow;
+ }*/
